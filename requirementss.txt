@@ -1,0 +1,16 @@
+certifi==2017.11.5
+chardet==3.0.4
+click==6.7
+Flask==0.12.2
+gunicorn==19.7.1
+idna==2.6
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+pymessenger==0.0.7.0
+-e git://github.com/mikexstudios/python-firebase.git@fc0597aafb1cb83c76e039370b1e0e180322f0e0#egg=python_firebase
+requests==2.18.4
+requests-toolbelt==0.8.0
+six==1.11.0
+urllib3==1.22
+Werkzeug==0.12.2
